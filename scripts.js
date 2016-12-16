@@ -1,5 +1,5 @@
-/*  Zad 1
-
+// Zadanie 1
+/*
 
 (function($) {
 
