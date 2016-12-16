@@ -1,0 +1,19 @@
+div{
+
+font-size: 20px;
+font-weight: bold;
+padding: 20px;
+}
+
+.grid-100 {
+
+	color: purple;
+	font-weight: bold;
+	font-style: italic;
+}
+
+body {
+
+background-color: #aaaaaa;
+
+}
